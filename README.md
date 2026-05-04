@@ -12,3 +12,9 @@ A Hub for our learning community, designed to support collaboration, knowledge s
 - Learning resources
 - FAQs
 - Team announcements
+
+
+
+## Contributing
+
+Want to contribute? Check out our [CONTRIBUTING.md](./CONTRIBUTING.md)
