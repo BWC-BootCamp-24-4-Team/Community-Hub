@@ -52,6 +52,7 @@ When adding a project:
 - Use clear naming for folders and files, remember: yourName/projectName
 - Add a `README.md` explaining your project
 - Stay aligned with the core concept of the organization
+- Keep your work inside your folder to avoid conflicts with others.
 
 ---
 
